@@ -19,5 +19,24 @@
     "minSdk": 29,
     "packageName": "cn.local.todo"
   },
-  "beta": null
+  "beta": {
+    "versionCode": 19,
+    "versionName": "1.0.2-beta1",
+    "channel": "beta",
+    "publishedAt": "2026-10-12",
+    "notes": [
+      "优化分组卡片：紧凑展示图标与名称，突出未完成数量，区分今日到期和逾期信息，长名称支持换行。",
+      "新增长按多选：长按待办卡片后立即选中，所有卡片轻微摇摆，点击卡片或选择控件切换选中状态。",
+      "新增批量完成与删除：底部磨砂胶囊显示操作，顶栏显示数量、全选和退出入口。",
+      "全选覆盖当前筛选的完整结果，包括屏幕外和原先尚未加载的待办。",
+      "批量完成提供撤销；批量删除显示磨砂确认弹窗，列出数量与部分标题。",
+      "重复待办仅处理选中期次，保留后续重复；成功后退出多选并保持筛选及滚动位置。",
+      "适配手机和平板、浅色与深色主题，继续保留原有右滑完成、提醒和应用内更新功能。"
+    ],
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta1/todo-1.0.2-beta1.apk",
+    "sizeBytes": 59440761,
+    "sha256": "0b819073e0d346e44733dd23c5628cd2b227f239ae0607694ee44e88c1bd832a",
+    "minSdk": 29,
+    "packageName": "cn.local.todo"
+  }
 }
