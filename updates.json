@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "stable": {
+    "versionCode": 18,
+    "versionName": "1.0.1",
+    "channel": "stable",
+    "publishedAt": "2026-10-12",
+    "notes": [
+      "新增应用内更新：重新打开应用时自动检查，设置 → 关于可手动检查。",
+      "新增磨砂玻璃更新弹窗，显示版本、安装包大小和分条更新内容。",
+      "支持“稍后”和“忽略此版本”，忽略不影响手动检查或后续版本提示。",
+      "默认接收正式版，可在设置中开启 beta 更新，并记住选择。",
+      "确认后下载，显示进度，支持取消与失败重试；校验通过后由安卓系统确认安装。",
+      "保留已有到期提醒上岛、抬手右滑完成、功能引导及手机和平板布局。"
+    ],
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.1/todo-1.0.1.apk",
+    "sizeBytes": 59342453,
+    "sha256": "1da42070ff0c7a2d484e6640c8205bc299f513119f2c304defa2573f72809e7b",
+    "minSdk": 29,
+    "packageName": "cn.local.todo"
+  },
+  "beta": null
+}
