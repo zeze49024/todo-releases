@@ -20,18 +20,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 25,
-    "versionName": "1.0.2-beta5.1",
+    "versionCode": 26,
+    "versionName": "1.0.2-beta6",
     "channel": "beta",
     "publishedAt": "2026-10-13",
     "notes": [
-      "修复桌面小部件点击跳转：主体打开对应功能页面，独立设置入口及完成、撤销等操作保留。",
-      "默认更新源改为 GitHub，保留并禁用 Gitee 按钮，停止 Gitee 检查、下载及自动备用切换。",
-      "GitHub 更新源按钮下新增红色加粗单行滚动提示，说明更新访问条件及手动下载方式。"
+      "新增红色磨砂回收站标签：删除的待办保留 7 天，支持单项／批量恢复、永久删除和清空回收站。",
+      "恢复时保留原状态、时间、分组、附件和置顶信息，过去的提醒不补发；仅恢复选中的重复期次，不重新启用已停止的规则。",
+      "新增“我的”页面：显示未完成、累计完成、逾期统计与近 7 天完成趋势，提供备份／恢复、回收站、提醒检查和设置入口。",
+      "新增提醒能力与最近成功备份状态展示；统计不包含回收站中的待办。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta5.1/todo-1.0.2-beta5.1.apk",
-    "sizeBytes": 63732140,
-    "sha256": "7757b44093449674e9941661c3f6f684c2f3fe11e3ffba3799954d01931d46ea",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta6/todo-1.0.2-beta6.apk",
+    "sizeBytes": 63928744,
+    "sha256": "68255cf2259443bfed8d383bfb207ee36c760668cb0477d46bf19333d5eacc7a",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
