@@ -20,17 +20,18 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 24,
-    "versionName": "1.0.2-beta5",
+    "versionCode": 25,
+    "versionName": "1.0.2-beta5.1",
     "channel": "beta",
     "publishedAt": "2026-10-13",
     "notes": [
-      "完全重制安卓桌面小部件",
-      "新增待办事项的“置顶”功能"
+      "修复桌面小部件点击跳转：主体打开对应功能页面，独立设置入口及完成、撤销等操作保留。",
+      "默认更新源改为 GitHub，保留并禁用 Gitee 按钮，停止 Gitee 检查、下载及自动备用切换。",
+      "GitHub 更新源按钮下新增红色加粗单行滚动提示，说明更新访问条件及手动下载方式。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta5/todo-1.0.2-beta5.apk",
-    "sizeBytes": 63732136,
-    "sha256": "fd9c71de7ae8dc156ab22763fcdcccc664f6fed2f070c72c3ee9a9fa280fa0c3",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta5.1/todo-1.0.2-beta5.1.apk",
+    "sizeBytes": 63732140,
+    "sha256": "7757b44093449674e9941661c3f6f684c2f3fe11e3ffba3799954d01931d46ea",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
