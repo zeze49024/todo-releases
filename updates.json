@@ -20,18 +20,17 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 22,
-    "versionName": "1.0.2-beta3.1",
+    "versionCode": 24,
+    "versionName": "1.0.2-beta5",
     "channel": "beta",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "notes": [
-      "修复公开 Gitee 仓库的文件 API 返回 403 时无法发现更新的问题，改为优先读取 master 分支的公开原始版本清单。",
-      "保留 Gitee 文件 API 和 GitHub 备用源；首选源不可用时明确说明备用源结果，避免误报已是最新版本。",
-      "保留 beta3 的通知上岛信息优化、更新弹窗返回修复，以及既有提醒和批量操作功能。"
+      "完全重制安卓桌面小部件",
+      "新增待办事项的“置顶”功能"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta3.1/todo-1.0.2-beta3.1.apk",
-    "sizeBytes": 59475511,
-    "sha256": "550475a8518b42c2d18931909aaab6067eb8b7467d516deb4512564a9394a5e8",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta5/todo-1.0.2-beta5.apk",
+    "sizeBytes": 63732136,
+    "sha256": "fd9c71de7ae8dc156ab22763fcdcccc664f6fed2f070c72c3ee9a9fa280fa0c3",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
