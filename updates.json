@@ -20,17 +20,16 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 27,
-    "versionName": "1.0.2-beta6.1",
+    "versionCode": 28,
+    "versionName": "1.0.2-re1",
     "channel": "beta",
     "publishedAt": "2026-10-14",
     "notes": [
-      "修复回收站标签选中态的重复轮廓和边缘错位显示。",
-      "回收站未选中时使用中性磨砂玻璃，选中后使用浅红色染色磨砂玻璃，与其他分组标签保持一致的状态切换方式。"
+      "优化应用UI/UX体验"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta6.1/todo-1.0.2-beta6.1.apk",
-    "sizeBytes": 63928748,
-    "sha256": "211ca8ebfec46ea23b97f4dd2bf7a5a0de899ebd99910884428cd2363ba80f04",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-re1/todo-1.0.2-re1.apk",
+    "sizeBytes": 63945128,
+    "sha256": "c7a68883de41198854adb52e9ce37f43f66274f88be9fdc2457cd0e0343416d4",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
