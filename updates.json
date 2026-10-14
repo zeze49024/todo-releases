@@ -22,19 +22,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 30,
-    "versionName": "1.1.0-beta1",
+    "versionCode": 31,
+    "versionName": "1.1.0-beta2",
     "channel": "beta",
     "publishedAt": "2026-10-14",
     "notes": [
-      "新增局域网内安卓手机／平板的待办与分组同步，支持双向同步或仅发送。",
-      "新增二维码配对、配对码备用及已配对设备管理。",
-      "新增内容选择、双方同步预览确认和冲突处理，删除记录单独选择。",
-      "附件同步并校验完整性；未来提醒沿用待办设置，按接收设备权限安排。"
+      "移除局域网同步页面的“配对码备用”板块。",
+      "修复扫码后发起端不显示配对码的问题；双方确认后才能继续，并显示确认状态与等待反馈。",
+      "优化同步项选择页面，按待办、分类、标签和删除记录分区显示，增加分类计数及选中高亮。",
+      "已配对设备的移除按钮改为红色，移除前增加二次确认。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta1/todo-1.1.0-beta1.apk",
-    "sizeBytes": 64873329,
-    "sha256": "362e7373803be0bfd8e7a12dfe09a925e496d397b70d301bffeda75a991fa3af",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta2/todo-1.1.0-beta2.apk",
+    "sizeBytes": 64889713,
+    "sha256": "6e78094dfb5bccf1c5d878d0930f4c789f8eebf5bb713d23e6f1cf51f38cee26",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
