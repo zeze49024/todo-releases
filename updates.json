@@ -22,16 +22,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 28,
-    "versionName": "1.0.2-re1",
+    "versionCode": 30,
+    "versionName": "1.1.0-beta1",
     "channel": "beta",
     "publishedAt": "2026-10-14",
     "notes": [
-      "优化应用UI/UX体验"
+      "新增局域网内安卓手机／平板的待办与分组同步，支持双向同步或仅发送。",
+      "新增二维码配对、配对码备用及已配对设备管理。",
+      "新增内容选择、双方同步预览确认和冲突处理，删除记录单独选择。",
+      "附件同步并校验完整性；未来提醒沿用待办设置，按接收设备权限安排。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-re1/todo-1.0.2-re1.apk",
-    "sizeBytes": 63945128,
-    "sha256": "c7a68883de41198854adb52e9ce37f43f66274f88be9fdc2457cd0e0343416d4",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta1/todo-1.1.0-beta1.apk",
+    "sizeBytes": 64873329,
+    "sha256": "362e7373803be0bfd8e7a12dfe09a925e496d397b70d301bffeda75a991fa3af",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
