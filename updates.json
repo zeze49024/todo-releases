@@ -20,19 +20,17 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 26,
-    "versionName": "1.0.2-beta6",
+    "versionCode": 27,
+    "versionName": "1.0.2-beta6.1",
     "channel": "beta",
-    "publishedAt": "2026-10-13",
+    "publishedAt": "2026-10-14",
     "notes": [
-      "新增红色磨砂回收站标签：删除的待办保留 7 天，支持单项／批量恢复、永久删除和清空回收站。",
-      "恢复时保留原状态、时间、分组、附件和置顶信息，过去的提醒不补发；仅恢复选中的重复期次，不重新启用已停止的规则。",
-      "新增“我的”页面：显示未完成、累计完成、逾期统计与近 7 天完成趋势，提供备份／恢复、回收站、提醒检查和设置入口。",
-      "新增提醒能力与最近成功备份状态展示；统计不包含回收站中的待办。"
+      "修复回收站标签选中态的重复轮廓和边缘错位显示。",
+      "回收站未选中时使用中性磨砂玻璃，选中后使用浅红色染色磨砂玻璃，与其他分组标签保持一致的状态切换方式。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta6/todo-1.0.2-beta6.apk",
-    "sizeBytes": 63928744,
-    "sha256": "68255cf2259443bfed8d383bfb207ee36c760668cb0477d46bf19333d5eacc7a",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2-beta6.1/todo-1.0.2-beta6.1.apk",
+    "sizeBytes": 63928748,
+    "sha256": "211ca8ebfec46ea23b97f4dd2bf7a5a0de899ebd99910884428cd2363ba80f04",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
