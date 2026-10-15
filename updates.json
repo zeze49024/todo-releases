@@ -1,23 +1,21 @@
 {
   "schemaVersion": 1,
   "stable": {
-    "versionCode": 29,
-    "versionName": "1.0.2",
+    "versionCode": 36,
+    "versionName": "1.1.0",
     "channel": "stable",
-    "publishedAt": "2026-10-14",
+    "publishedAt": "2026-10-15",
     "notes": [
-      "新增应用自动检测更新",
-      "新增待办事项的多选操作",
-      "优化通知上岛内容",
-      "重置安卓桌面小部件",
-      "新增待办事项置顶功能",
-      "新增待办事项回收站",
-      "新增“我的”用户页面",
-      "优化应用UI/UX体验"
+      "新增安卓手机与平板之间的局域网同步，支持二维码配对、双向同步或仅发送，并可选择待办、分组与附件。",
+      "同步前展示预览，支持处理内容冲突、选择同步删除记录，双方确认后再写入。",
+      "新增“信笺叠合”全屏发送／接收动画，展示真实传输阶段、附件进度与同步结果。",
+      "优化低版本安卓显示，Android 10／11／12 使用实色组件，保留现有配色与交互动画。",
+      "优化大量待办的分批加载、大字号与无障碍体验，新增底部操作栏及新建按钮的轻微触感反馈。",
+      "修复日历“月／周”切换控件的容器尺寸与文字居中问题，优化手机、平板及大字号下的显示。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.0.2/todo-1.0.2.apk",
-    "sizeBytes": 63928740,
-    "sha256": "88290d4d6b6bb1c2a53236df3ca3da4ad077b5632c7864f74c5af518a095dca6",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0/todo-1.1.0.apk",
+    "sizeBytes": 65069929,
+    "sha256": "14652c3f48d9bb32e9e74ef3a1d720a49e63e00d05e357e1d6361c6749239709",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   },
