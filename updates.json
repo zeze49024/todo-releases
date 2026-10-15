@@ -22,19 +22,17 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 34,
-    "versionName": "1.1.0-beta5",
+    "versionCode": 35,
+    "versionName": "1.1.0-beta6",
     "channel": "beta",
     "publishedAt": "2026-10-15",
     "notes": [
-      "局域网同步新增“信笺叠合”全屏发送与接收动画，随实际传输方向切换。",
-      "附件展示真实传输进度，校验与保存采用阶段提示，优化手机、平板及大字号布局。",
-      "同步结果区分发送与接收，展示待办和分组的新增、更新、删除数量，以及附件和双方保存状态。",
-      "完善同步取消确认与中断反馈，保持前台同步及低版本实色背景兼容。"
+      "局域网同步进行中隐藏全屏页面顶栏的返回按钮，保留取消同步入口与系统返回确认。",
+      "修复日历月／周切换控件容器异常放大，优化普通字号、大字号和手机／平板下的尺寸表现。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta5/todo-1.1.0-beta5.apk",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta6/todo-1.1.0-beta6.apk",
     "sizeBytes": 65069937,
-    "sha256": "e9c99d21f720cd37cf22cd8710d0ce4aad0c3d35b64d03b6606a9e2a2f82806a",
+    "sha256": "75600be2d93c339074fd85630d8e8d137fc16180cf970154fc568b1a680399bf",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
