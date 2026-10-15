@@ -22,18 +22,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 33,
-    "versionName": "1.1.0-beta4",
+    "versionCode": 34,
+    "versionName": "1.1.0-beta5",
     "channel": "beta",
     "publishedAt": "2026-10-15",
     "notes": [
-      "优化完整数据查询与分批加载，避免大量历史记录导致待办、搜索或日历安排遗漏。",
-      "优化全应用大字号与无障碍体验，完善自适应排版、读屏操作及桌面小组件的大字号显示。",
-      "新增底部导航、批量操作栏及新建按钮的轻微振动反馈，跟随系统触感设置。"
+      "局域网同步新增“信笺叠合”全屏发送与接收动画，随实际传输方向切换。",
+      "附件展示真实传输进度，校验与保存采用阶段提示，优化手机、平板及大字号布局。",
+      "同步结果区分发送与接收，展示待办和分组的新增、更新、删除数量，以及附件和双方保存状态。",
+      "完善同步取消确认与中断反馈，保持前台同步及低版本实色背景兼容。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta4/todo-1.1.0-beta4.apk",
-    "sizeBytes": 64971633,
-    "sha256": "3c1149ca9435b39770d07ddd90d383699ccb1827dca94368f3ece5c68638e391",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta5/todo-1.1.0-beta5.apk",
+    "sizeBytes": 65069937,
+    "sha256": "e9c99d21f720cd37cf22cd8710d0ce4aad0c3d35b64d03b6606a9e2a2f82806a",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
