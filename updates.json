@@ -22,19 +22,17 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 31,
-    "versionName": "1.1.0-beta2",
+    "versionCode": 32,
+    "versionName": "1.1.0-beta3",
     "channel": "beta",
-    "publishedAt": "2026-10-14",
+    "publishedAt": "2026-10-15",
     "notes": [
-      "移除局域网同步页面的“配对码备用”板块。",
-      "修复扫码后发起端不显示配对码的问题；双方确认后才能继续，并显示确认状态与等待反馈。",
-      "优化同步项选择页面，按待办、分类、标签和删除记录分区显示，增加分类计数及选中高亮。",
-      "已配对设备的移除按钮改为红色，移除前增加二次确认。"
+      "Android 10、11、12（含 12L）全局磨砂玻璃组件降级为不透明实色背景，优化低版本界面的可读性。",
+      "保留选中态配色、圆角、轻微阴影与交互动画，取消低版本组件的玻璃亮边和光晕；Android 13 及以上沿用现有效果。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta2/todo-1.1.0-beta2.apk",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta3/todo-1.1.0-beta3.apk",
     "sizeBytes": 64889713,
-    "sha256": "6e78094dfb5bccf1c5d878d0930f4c789f8eebf5bb713d23e6f1cf51f38cee26",
+    "sha256": "8101cc28f8eda2b50c034c7adfcee83a12166fea8de4689dbe9c571af7199cf2",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
