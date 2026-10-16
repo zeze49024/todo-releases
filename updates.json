@@ -20,19 +20,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 37,
-    "versionName": "1.1.1-beta",
+    "versionCode": 38,
+    "versionName": "2.0.0-LiquidTest-beta",
     "channel": "beta",
     "publishedAt": "2026-10-16",
     "notes": [
-      "新增设置“附件中心”，统一管理正常待办和待办回收站中的附件，展示所属待办、分组与获取方式。",
-      "支持图片预览、文件打开、定位待办、分享与导出、搜索筛选以及单项／批量管理，同一文件合并展示并去重统计空间。",
-      "新增保留 7 天的附件回收站，支持恢复、重新关联、单项／批量永久删除及清空，保护仍被其他待办引用的文件。",
-      "完整备份纳入附件回收站，支持读取此前版本备份；旧附件无法追溯的获取方式标为未知。"
+      "新增可切换的“液态玻璃”和“磨砂玻璃”材质主题，默认使用液态玻璃。",
+      "液态玻璃底部导航采用 LiquidBottomTabs 方案，新建待办按钮独立置于右侧。",
+      "新增材质主题预览与即时切换，保留蓝色／浅红色功能染色，适配深浅显示模式。",
+      "Android 13 以下固定实色外观；低内存设备优先保持流畅并显示降级说明。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.1-beta/todo-1.1.1-beta.apk",
-    "sizeBytes": 65332125,
-    "sha256": "305d9726d2f55fc130af3b96785009edca43309a5d9b2ffaab886f8d1673643c",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-LiquidTest-beta/todo-2.0.0-LiquidTest-beta.apk",
+    "sizeBytes": 65578101,
+    "sha256": "9dc477d757428bc27a7e5cade7adde124615ee037b6be2e61c128c052806c01d",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
