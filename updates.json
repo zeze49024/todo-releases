@@ -20,19 +20,18 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 38,
-    "versionName": "2.0.0-LiquidTest-beta",
+    "versionCode": 39,
+    "versionName": "2.0.0-LiquidTest-beta1",
     "channel": "beta",
     "publishedAt": "2026-10-16",
     "notes": [
-      "新增可切换的“液态玻璃”和“磨砂玻璃”材质主题，默认使用液态玻璃。",
-      "液态玻璃底部导航采用 LiquidBottomTabs 方案，新建待办按钮独立置于右侧。",
-      "新增材质主题预览与即时切换，保留蓝色／浅红色功能染色，适配深浅显示模式。",
-      "Android 13 以下固定实色外观；低内存设备优先保持流畅并显示降级说明。"
+      "优化液态玻璃材质：降低中心模糊与底色遮罩，扩大边缘折射范围，增强透镜厚度与方向性高光。",
+      "优化液态底部导航：增强选中透镜的折射、按压形变和跟手光感；新建待办按钮继续独立显示在右侧。",
+      "优化材质主题预览，便于对比折射与磨砂效果；保留主题即时切换、选择记忆及低版本实色降级。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-LiquidTest-beta/todo-2.0.0-LiquidTest-beta.apk",
-    "sizeBytes": 65578101,
-    "sha256": "9dc477d757428bc27a7e5cade7adde124615ee037b6be2e61c128c052806c01d",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-LiquidTest-beta1/todo-2.0.0-LiquidTest-beta1.apk",
+    "sizeBytes": 65578105,
+    "sha256": "16b8a93f46f664e6d3590e031d794413fadc895338285af686d0e2c8c7c317ff",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
