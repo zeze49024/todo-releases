@@ -20,17 +20,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 35,
-    "versionName": "1.1.0-beta6",
+    "versionCode": 37,
+    "versionName": "1.1.1-beta",
     "channel": "beta",
-    "publishedAt": "2026-10-15",
+    "publishedAt": "2026-10-16",
     "notes": [
-      "局域网同步进行中隐藏全屏页面顶栏的返回按钮，保留取消同步入口与系统返回确认。",
-      "修复日历月／周切换控件容器异常放大，优化普通字号、大字号和手机／平板下的尺寸表现。"
+      "新增设置“附件中心”，统一管理正常待办和待办回收站中的附件，展示所属待办、分组与获取方式。",
+      "支持图片预览、文件打开、定位待办、分享与导出、搜索筛选以及单项／批量管理，同一文件合并展示并去重统计空间。",
+      "新增保留 7 天的附件回收站，支持恢复、重新关联、单项／批量永久删除及清空，保护仍被其他待办引用的文件。",
+      "完整备份纳入附件回收站，支持读取此前版本备份；旧附件无法追溯的获取方式标为未知。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.0-beta6/todo-1.1.0-beta6.apk",
-    "sizeBytes": 65069937,
-    "sha256": "75600be2d93c339074fd85630d8e8d137fc16180cf970154fc568b1a680399bf",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v1.1.1-beta/todo-1.1.1-beta.apk",
+    "sizeBytes": 65332125,
+    "sha256": "305d9726d2f55fc130af3b96785009edca43309a5d9b2ffaab886f8d1673643c",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
