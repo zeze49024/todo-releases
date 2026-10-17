@@ -20,18 +20,18 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 39,
-    "versionName": "2.0.0-LiquidTest-beta1",
+    "versionCode": 40,
+    "versionName": "2.0.0-beta1",
     "channel": "beta",
-    "publishedAt": "2026-10-16",
+    "publishedAt": "2026-10-17",
     "notes": [
-      "优化液态玻璃材质：降低中心模糊与底色遮罩，扩大边缘折射范围，增强透镜厚度与方向性高光。",
-      "优化液态底部导航：增强选中透镜的折射、按压形变和跟手光感；新建待办按钮继续独立显示在右侧。",
-      "优化材质主题预览，便于对比折射与磨砂效果；保留主题即时切换、选择记忆及低版本实色降级。"
+      "修复液态玻璃底栏跟手透镜透出清晰背景的问题，检查并优化其他跟手控件的背景采样。",
+      "优化 LiquidGlass 材质，减轻边缘折射厚度与高光，修复底栏异常变粗，保留独立新建按钮。",
+      "个人中心新增最近 12 个月待办完成热力图，替换近 7 天趋势，支持选择日期查看当天已完成待办及打开详情。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-LiquidTest-beta1/todo-2.0.0-LiquidTest-beta1.apk",
-    "sizeBytes": 65578105,
-    "sha256": "16b8a93f46f664e6d3590e031d794413fadc895338285af686d0e2c8c7c317ff",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta1/todo-2.0.0-beta1.apk",
+    "sizeBytes": 65627249,
+    "sha256": "cae9d86c283b0160b1efa6963ab78e68f2dbba37c8561ccf040f233e4a3b9208",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
