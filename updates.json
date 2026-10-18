@@ -20,18 +20,19 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 43,
-    "versionName": "2.0.0-beta4",
+    "versionCode": 44,
+    "versionName": "2.0.0-beta5",
     "channel": "beta",
     "publishedAt": "2026-10-18",
     "notes": [
-      "美化“专注”页，重排时长、轮数、本次安排、今日统计与专注记录，统一卡片层级与留白。",
-      "美化独立番茄钟页面，新增细刻度圆环、阶段标识和下一阶段提示，优化专注／休息配色及手机、平板、大字号布局。",
-      "精简专注期间的 Live Updates 信息：使用计时图标与加粗“专注中”标题，剩余时间交由系统倒计时持续展示；专注标题与轮次保留在展开详情。"
+      "统一“专注空间”、休息与结果页的悬浮标题栏，沿用其他页面的字体、居中布局和材质效果，保留返回与轮数调整入口。",
+      "丰富材质主题预览，增加相同彩色场景上的卡片、按钮、选中标签和独立新建按钮，手机上下排列、平板并排对比。",
+      "预览底栏支持自动演示、点击、拖动、按压放大与松手回弹；手动操作后暂缓自动演示，并支持暂停。",
+      "材质切换改为独立“使用此材质”按钮，预览操作不影响真实页面和待办；离开可见区域、切后台或关闭系统动画时暂停自动演示。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta4/todo-2.0.0-beta4.apk",
-    "sizeBytes": 65906470,
-    "sha256": "5bab7b6a60c860d779b76ad903d9236767711eaa482d68e24c15f090f2de6281",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta5/todo-2.0.0-beta5.apk",
+    "sizeBytes": 65939242,
+    "sha256": "b5fc6ba705f2b18f99089eaf448baf64ad81c4555b8888086f521f97f685ad3e",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
