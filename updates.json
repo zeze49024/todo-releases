@@ -20,20 +20,18 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 42,
-    "versionName": "2.0.0-beta3",
+    "versionCode": 43,
+    "versionName": "2.0.0-beta4",
     "channel": "beta",
     "publishedAt": "2026-10-18",
     "notes": [
-      "重构番茄钟：开始前设置专注、短休息、长休息时长、长休息间隔和本次总轮数，可填写专注标题并关联待办。",
-      "新增独立全屏计时页，隐藏应用底栏；专注与休息自动衔接，完成最后一轮专注后直接结束。",
-      "支持计时中调整总轮数，保留当前计时；降低至已完成轮数或以下时二次确认后提前结束。",
-      "新增完成／提前结束结果页，展示标题、实际专注时长和完成轮数；退出全屏仍继续计时。",
-      "优化阶段通知与 Live Updates 信息；异常恢复只结算当前阶段，不补记错过的后续轮次。"
+      "美化“专注”页，重排时长、轮数、本次安排、今日统计与专注记录，统一卡片层级与留白。",
+      "美化独立番茄钟页面，新增细刻度圆环、阶段标识和下一阶段提示，优化专注／休息配色及手机、平板、大字号布局。",
+      "精简专注期间的 Live Updates 信息：使用计时图标与加粗“专注中”标题，剩余时间交由系统倒计时持续展示；专注标题与轮次保留在展开详情。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta3/todo-2.0.0-beta3.apk",
-    "sizeBytes": 65890090,
-    "sha256": "652728e3854d5b6a64d0dbcf0b3d87c95bfb1a08fba713a93d9b20a82fd90de1",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta4/todo-2.0.0-beta4.apk",
+    "sizeBytes": 65906470,
+    "sha256": "5bab7b6a60c860d779b76ad903d9236767711eaa482d68e24c15f090f2de6281",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
