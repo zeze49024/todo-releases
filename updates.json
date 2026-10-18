@@ -20,18 +20,20 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 40,
-    "versionName": "2.0.0-beta1",
+    "versionCode": 42,
+    "versionName": "2.0.0-beta3",
     "channel": "beta",
-    "publishedAt": "2026-10-17",
+    "publishedAt": "2026-10-18",
     "notes": [
-      "修复液态玻璃底栏跟手透镜透出清晰背景的问题，检查并优化其他跟手控件的背景采样。",
-      "优化 LiquidGlass 材质，减轻边缘折射厚度与高光，修复底栏异常变粗，保留独立新建按钮。",
-      "个人中心新增最近 12 个月待办完成热力图，替换近 7 天趋势，支持选择日期查看当天已完成待办及打开详情。"
+      "重构番茄钟：开始前设置专注、短休息、长休息时长、长休息间隔和本次总轮数，可填写专注标题并关联待办。",
+      "新增独立全屏计时页，隐藏应用底栏；专注与休息自动衔接，完成最后一轮专注后直接结束。",
+      "支持计时中调整总轮数，保留当前计时；降低至已完成轮数或以下时二次确认后提前结束。",
+      "新增完成／提前结束结果页，展示标题、实际专注时长和完成轮数；退出全屏仍继续计时。",
+      "优化阶段通知与 Live Updates 信息；异常恢复只结算当前阶段，不补记错过的后续轮次。"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta1/todo-2.0.0-beta1.apk",
-    "sizeBytes": 65627249,
-    "sha256": "cae9d86c283b0160b1efa6963ab78e68f2dbba37c8561ccf040f233e4a3b9208",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta3/todo-2.0.0-beta3.apk",
+    "sizeBytes": 65890090,
+    "sha256": "652728e3854d5b6a64d0dbcf0b3d87c95bfb1a08fba713a93d9b20a82fd90de1",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
