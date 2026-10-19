@@ -21,19 +21,20 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 45,
-    "versionName": "2.0.0-beta6",
+    "versionCode": 47,
+    "versionName": "2.0.1-beta1",
     "channel": "beta",
-    "publishedAt": "2026-10-18",
+    "publishedAt": "2026-10-19",
     "notes": [
-      "材质主题取消自动切换演示，改为冰蓝、淡紫、薄荷绿缓慢交融的动态背景；底栏仅响应手动点击和拖动。",
-      "材质预览复用实际待办卡片、分组标签、底部导航和独立新建按钮，预览操作不影响真实数据与导航。",
-      "优化专注通知的剩余时间信息，沿用系统实时倒计时，保持与计时页一致，并保留暂停、继续和休息阶段显示。",
-      "重排“更多”菜单，“我的”独立置顶，工具与管理设置分区，统一图标、行高和间距，精简说明。"
+      "新增 “待办专注统计”功能",
+      "新增“专注结束后快捷完成待办”功能",
+      "新增“局域网同步历史”功能",
+      "修复 “液态玻璃”主题下主页底部操作栏（四联功能栏）跟手控件边缘的折射效果消失的问题  #B261019001",
+      "优化 “关于”页面换新"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0-beta6/todo-2.0.0-beta6.apk",
-    "sizeBytes": 65939242,
-    "sha256": "5e01e0d245580d40e9aa8baa0ba5377fb5fd1f70222bc27ce3669dbe2abe9650",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1-beta1/todo-2.0.1-beta1.apk",
+    "sizeBytes": 66201444,
+    "sha256": "1e271292ab6c0a397db5b975b3133a061bece5a10b79f8aa203609518063f0e3",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
