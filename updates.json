@@ -21,20 +21,17 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 47,
-    "versionName": "2.0.1-beta1",
+    "versionCode": 48,
+    "versionName": "2.0.1-beta2",
     "channel": "beta",
     "publishedAt": "2026-10-19",
     "notes": [
-      "新增 “待办专注统计”功能",
-      "新增“专注结束后快捷完成待办”功能",
-      "新增“局域网同步历史”功能",
-      "修复 “液态玻璃”主题下主页底部操作栏（四联功能栏）跟手控件边缘的折射效果消失的问题  #B261019001",
-      "优化 “关于”页面换新"
+      "新增 繁体中文、英语、日语语言选项",
+      "修复 “液态玻璃”主题下主页底部操作栏（四联功能栏）跟手控件边缘的折射效果消失的问题  #B261019001"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1-beta1/todo-2.0.1-beta1.apk",
-    "sizeBytes": 66201444,
-    "sha256": "1e271292ab6c0a397db5b975b3133a061bece5a10b79f8aa203609518063f0e3",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1-beta2/todo-2.0.1-beta2.apk",
+    "sizeBytes": 67289697,
+    "sha256": "99df7773ccb2f6c83cac708b6f1c92a0a79d322ac344e3d752d511c817746a70",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
