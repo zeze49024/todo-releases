@@ -21,17 +21,18 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 48,
-    "versionName": "2.0.1-beta2",
+    "versionCode": 49,
+    "versionName": "2.0.1-beta3",
     "channel": "beta",
-    "publishedAt": "2026-10-19",
+    "publishedAt": "2026-10-20",
     "notes": [
-      "新增 繁体中文、英语、日语语言选项",
-      "修复 “液态玻璃”主题下主页底部操作栏（四联功能栏）跟手控件边缘的折射效果消失的问题  #B261019001"
+      "修复 “液态玻璃”主题下主页底部操作栏（四联功能栏）跟手控件边缘的折射效果在选中态时依然存在 #B261019003",
+      "优化 LiquidGlass效果",
+      "修复英语语言下的部分单词/句子没有正确的显示首字母大写  #B261019004"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1-beta2/todo-2.0.1-beta2.apk",
-    "sizeBytes": 67289697,
-    "sha256": "99df7773ccb2f6c83cac708b6f1c92a0a79d322ac344e3d752d511c817746a70",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1-beta3/todo-2.0.1-beta3.apk",
+    "sizeBytes": 67307937,
+    "sha256": "f56cc4396f7eb86c1b1cd7dcae5412f791dee8eeb1a33f5e4d51fc35a822c3d4",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
