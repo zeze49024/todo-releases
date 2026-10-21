@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "stable": {
-    "versionCode": 46,
-    "versionName": "2.0.0",
+    "versionCode": 51,
+    "versionName": "2.0.1",
     "channel": "stable",
-    "publishedAt": "2026-10-18",
+    "publishedAt": "2026-10-21",
     "notes": [
-      "新增液态玻璃与磨砂玻璃材质主题，Android 13 及以上可在设置中切换；材质预览采用真实组件和柔和流动背景。",
-      "新增专注番茄钟，支持自定义时长、关联待办、专注标题、重复轮数、全屏计时、自动阶段切换及专注记录。",
-      "新增待办完成热力图，支持查看最近 12 个月的完成情况及每日完成事项。",
-      "新增附件中心，统一管理文件来源、关联待办、分享导出和保留 7 天的附件回收站。",
-      "优化底栏按压跟手效果、专注页面与更多菜单的布局和交互体验。",
-      "调整专注 Live Updates 紧凑信息，专注时显示“专注中”，休息时显示对应状态；展开通知保留剩余倒计时。",
-      "Android 13 以下隐藏“材质主题”入口，并固定使用磨砂玻璃主题，继续采用实色兼容外观。"
+      "新增“待办专注统计”功能",
+      "新增“专注结束后快捷完成待办”功能",
+      "新增“局域网同步历史”功能",
+      "新增繁体中文、英语、日语语言选项",
+      "优化 LiquidGlass 材质效果与控件交互动效",
+      "优化“关于”页面",
+      "修复英语界面部分文本大小写及长文本排版问题"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.0/todo-2.0.0.apk",
-    "sizeBytes": 65939238,
-    "sha256": "3ad17add31a9851ca9a372f14864b530c50a710937b7f217da5db278118b66da",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1/todo-2.0.1.apk",
+    "sizeBytes": 67495840,
+    "sha256": "75906cadfe0809c2eda0663ee636f829143cc3595d76839a7e01b5a2c5d4d355",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   },
