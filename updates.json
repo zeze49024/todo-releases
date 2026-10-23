@@ -21,16 +21,16 @@
     "packageName": "cn.local.todo"
   },
   "beta": {
-    "versionCode": 52,
-    "versionName": "2.0.1.1-rc1",
+    "versionCode": 53,
+    "versionName": "2.0.1.1-rc2",
     "channel": "beta",
     "publishedAt": "2026-10-23",
     "notes": [
-      "优化 调整部分板块UI"
+      "修复 调整部分UI的显示问题"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1.1-rc1/todo-2.0.1.1-rc1.apk",
-    "sizeBytes": 67514496,
-    "sha256": "f1036e2c518c7711a63abbca9f1fe64ca85b2b0fed44ac369f9d7d87247af751",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1.1-rc2/todo-2.0.1.1-rc2.apk",
+    "sizeBytes": 67515112,
+    "sha256": "c829273fe280bd4513515be884622246917d63fabdd2aa5d4c2225aaa002f026",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   }
