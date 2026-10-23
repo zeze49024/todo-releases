@@ -1,22 +1,17 @@
 {
   "schemaVersion": 1,
   "stable": {
-    "versionCode": 51,
-    "versionName": "2.0.1",
+    "versionCode": 54,
+    "versionName": "2.0.1.1",
     "channel": "stable",
-    "publishedAt": "2026-10-21",
+    "publishedAt": "2026-10-23",
     "notes": [
-      "新增“待办专注统计”功能",
-      "新增“专注结束后快捷完成待办”功能",
-      "新增“局域网同步历史”功能",
-      "新增繁体中文、英语、日语语言选项",
-      "优化 LiquidGlass 材质效果与控件交互动效",
-      "优化“关于”页面",
-      "修复英语界面部分文本大小写及长文本排版问题"
+      "修复 解决了在LiquidGlass主题下的部分UI特性及性能问题",
+      "修复 解决了在LiquidGlass主题下底栏的跟手控件在特定位置下触发的闪退BUG"
     ],
-    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1/todo-2.0.1.apk",
-    "sizeBytes": 67495840,
-    "sha256": "75906cadfe0809c2eda0663ee636f829143cc3595d76839a7e01b5a2c5d4d355",
+    "apkUrl": "https://github.com/zeze49024/todo-releases/releases/download/v2.0.1.1/todo-2.0.1.1.apk",
+    "sizeBytes": 67533176,
+    "sha256": "28c6b537b5f68b1bc3efba1644d5110776bc398e16af97046edfaea9ea72b82e",
     "minSdk": 29,
     "packageName": "cn.local.todo"
   },
